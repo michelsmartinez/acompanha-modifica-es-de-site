@@ -1,4 +1,4 @@
-# Acompanhamento de pedidos - Total express
+# Acompanhamento de Sites
 
 O programa executa em background, monitorando o site e enviando e-mails para modificações no texto do mesmo
 
